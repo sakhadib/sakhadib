@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt='latex'  width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt='latex'  width="40" height="40" />
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhadib&show_icons=true&locale=en&layout=compact" alt="sakhadib" /></p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&layout=donut-vertical&langs_count=20&card_width=325&custom_title=Languages)
 </p>
 
 
@@ -80,8 +80,4 @@
 
 
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&locale=en" alt="sakhadib" /></p>
 
