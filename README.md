@@ -13,8 +13,8 @@
 <h3>Github Stats</h3>
 <p>
 <a href="https://sakhawatadib.com">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6&card_width=450" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6&card_width=350" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=250" />
 </a>
 </p>
 
@@ -22,8 +22,8 @@
 <h3>Coding Activity Counted by WakaTime and Top Languages</h3>
   <p>
     <a href="https://sakhawatadib.com">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=400" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=6&layout=compact&card_width=400" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=350" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=6&layout=compact&card_width=350" />
     </a>
   </p>
 
