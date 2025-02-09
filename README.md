@@ -1,7 +1,9 @@
 <h1>Adib Sakhawat</h1>
 <p>Software Engineering Student at <b>Islamic University of Technology</b>. I think world would be much better with perfect softwares</p>
-<p>  <img src="https://komarev.com/ghpvc/?username=sakhadib&label=Profile%20views&color=0e75b6&style=flat" alt="sakhadib" /> 
+<p style="height:20px;">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sakhadib?style=flat-square" style="height:20px;">
 </p>
+<img src="https://komarev.com/ghpvc/?username=sakhadib&label=Profile%20views&color=bd93f9&style=flat-square" alt="sakhadib" style="height:30px;"/> 
 
 <h3>Github Trophies</h3>
 <p> 
@@ -29,13 +31,14 @@
 
 <h3>Wakatime Statistics</h3>
   <p>
-    <a>
+    <a >
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=700" />
     </a>
   </p>
 
 
-
+<h3>Activity Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhadib&area=true&hide_border=true&theme=dracula&days=30&radius=5.6" />
 
 
 
