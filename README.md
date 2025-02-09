@@ -6,26 +6,34 @@
 <h3>Github Trophies</h3>
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakhadib&row=1&column=8&margin-w=15&margin-h=15&theme=apprentice&no-frame=true" alt="sakhadib" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sakhadib&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="sakhadib" />
   </a>
 </p>
 
-<h3>Github Stats</h3>
+<h3>Github Streak</h3>
 <p>
 <a href="https://sakhawatadib.com">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6&card_width=350" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=250" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6" alt="GitHub Streak" />
 </a>
 </p>
 
 
-<h3>Coding Activity Counted by WakaTime and Top Languages</h3>
+<h3>Github Activity and Top Languages</h3>
   <p>
     <a href="https://sakhawatadib.com">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=300" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=6&layout=compact&card_width=300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=350&border_radius=5.6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=8&layout=compact&card_width=350" />
     </a>
   </p>
+
+
+<h3>Wakatime Statistics</h3>
+  <p>
+    <a>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=700" />
+    </a>
+  </p>
+
 
 
 
