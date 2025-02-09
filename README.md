@@ -1,14 +1,35 @@
-<h1 align="center">Hi 👋, I'm Adib Sakhawat</h1>
-<h3 align="center">A software engineering student who thinks world can be better with perfect softwares.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakhadib&label=Profile%20views&color=0e75b6&style=flat" alt="sakhadib" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakhadib&row=2&column=3&margin-w=15&margin-h=15" alt="sakhadib" /></a> </p>
-
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhadib&" alt="sakhadib" />
+<h1>Adib Sakhawat</h1>
+<p>Software Engineering Student at <b>Islamic University of Technology</b>. I think world would be much better with perfect softwares</p>
+<p>  <img src="https://komarev.com/ghpvc/?username=sakhadib&label=Profile%20views&color=0e75b6&style=flat" alt="sakhadib" /> 
 </p>
+
+<h3>Github Trophies</h3>
+<p> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sakhadib&row=1&column=8&margin-w=15&margin-h=15&theme=apprentice&no-frame=true" alt="sakhadib" />
+  </a>
+</p>
+
+<h3>Github Stats</h3>
+<p>
+<a href="https://sakhawatadib.com">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6&card_width=500" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=500" />
+</a>
+</p>
+
+
+<h3>Coding Activity Counted by WakaTime and Top Languages</h3>
+  <p>
+    <a href="https://sakhawatadib.com">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=6&layout=compact&card_width=500" />
+    </a>
+  </p>
+
+
+
+
 
 <h2 align="left">Find Me in</h2>
 <p align="left">
@@ -75,8 +96,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9jGgd1gP8LkxM7sMQopRAIPZF3M-qvh2AA&s" alt="mysql" width="60" height="60"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtNAEyUrL0zgjGvrkqlo3zibAz_l530p8mg&s" alt="mysql" width="60" height="60"/>
 </p>
-
-
 
 
 
