@@ -6,6 +6,7 @@ I'm also an engineer at heart: when I want to understand something, I build my o
 
 BSc Software Engineering, Islamic University of Technology (IUT), Bangladesh, 2026, First Class with Honours · Affiliate Researcher, [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl).
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Adib_Sakhawat-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usvtpskAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3549--8616-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3549-8616)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sakhawatadib.com-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio.sakhawatadib.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakhadib-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakhadib)
@@ -28,7 +29,7 @@ BSc Software Engineering, Islamic University of Technology (IUT), Bangladesh, 20
 - **AREG: Adversarial Resource Extraction Game for Persuasion and Resistance in LLMs**. *MusIML @ ICML 2026*. [OpenReview](https://openreview.net/forum?id=1bnYMgH5gi) · [code](https://github.com/sakhadib/AREG)
 - **Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**. *MRL @ EMNLP 2026*. [arXiv](https://arxiv.org/abs/2609.29445)
 
-Preprints on temporal reasoning, cross-lingual retrieval, LLM safety in Bangla, and Bangladeshi legal text: see [ORCID](https://orcid.org/0009-0005-3549-8616).
+Plus 7 preprints, on literal bias in Bengali idiom understanding, temporal reasoning, cross-lingual retrieval, LLM safety in Bangla, LLM evaluation geometry, political alignment, and Bangladeshi legal text. All on [Google Scholar](https://scholar.google.com/citations?user=usvtpskAAAAJ).
 
 #### 🗂️ Datasets
 
