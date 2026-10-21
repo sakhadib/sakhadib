@@ -10,7 +10,7 @@ BSc Software Engineering, Islamic University of Technology (IUT), Bangladesh, 20
 
 #### Publications
 
-- **When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms**. *LREC 2026*. [paper](https://doi.org/10.63317/546w2cys6m6t) · [data](https://www.kaggle.com/datasets/sakhadib/bangla-bagdhara)
+- **When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms**. *LREC 2026*. [paper](https://doi.org/10.63317/546w2cys6m6t) · [data](https://www.kaggle.com/datasets/sakhadib/bangla-bagdhara)<br>
   30 LLMs on 10,361 Bengali idioms: none exceeds 50% accuracy, against 83.4% for humans.
 - **LLM-Ideoplasticity: Measuring Ideological Plasticity in the Political Behavior of LLMs**. *AACL-IJCNLP 2026*. [arXiv](https://arxiv.org/abs/2606.28335) · [code](https://github.com/sakhadib/LLM-Ideoplasticity)
 - **AIDG: Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue**. *REALM @ EMNLP 2026*. [arXiv](https://arxiv.org/abs/2602.17443) · [code](https://github.com/sakhadib/AIDG)
