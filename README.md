@@ -50,5 +50,5 @@ Preprints on temporal reasoning, cross-lingual retrieval, LLM safety in Bangla, 
 #### 🧰 Tools I reach for
 
 <p>
-  <img height="36" src="https://skillicons.dev/icons?i=python,pytorch,rust,cpp,ts,js,react,electron,laravel,php,mysql,sqlite,redis,githubactions,linux,latex" alt="Python, PyTorch, Rust, C++, TypeScript, JavaScript, React, Electron, Laravel, PHP, MySQL, SQLite, Redis, GitHub Actions, Linux, LaTeX" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,cpp,ts,js,react,electron,laravel,php,mysql,sqlite,redis,githubactions,linux,latex&perline=16" alt="Python, PyTorch, Rust, C++, TypeScript, JavaScript, React, Electron, Laravel, PHP, MySQL, SQLite, Redis, GitHub Actions, Linux, LaTeX" />
 </p>
