@@ -1,98 +1,32 @@
-<h1>Adib Sakhawat</h1>
-<p>Software Engineering Student at <b>Islamic University of Technology</b>. I think world would be much better with perfect softwares</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sakhadib&label=Profile%20views&color=bd93f9&style=flat-square" alt="sakhadib" style="height:30px;"/> 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sakhadib?style=flat-square" style="height:30px;">
-</p>
+### Adib Sakhawat
 
+I work on **NLP, LLM evaluation, and AI safety**, mostly in the places mainstream benchmarks skip: low-resource languages like Bangla, figurative and legal text, and the gap between what a model *understands* and what it *contains*. I build datasets and evaluation protocols meant to falsify claims about model capability, not confirm them.
 
-<h3>Github Trophies</h3>
-<p> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakhadib&row=1&column=8&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="sakhadib" />
-  </a>
-</p>
+BSc Software Engineering, Islamic University of Technology (IUT), Bangladesh, 2026, First Class with Honours.
 
-<h3>Github Streak</h3>
-<p>
-<a href="https://sakhawatadib.com">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakhadib&theme=dracula&hide_border=true&border_radius=5.6" alt="GitHub Streak" />
-</a>
-</p>
+[Portfolio](https://portfolio.sakhawatadib.com) · [ORCID](https://orcid.org/0009-0005-3549-8616) · [Kaggle](https://www.kaggle.com/sakhadib) · sakhadib@gmail.com
 
+---
 
-<h3>Github Activity and Top Languages</h3>
-  <p>
-    <a href="https://sakhawatadib.com">
-      <img src="https://github-readme-stats.vercel.app/api?username=sakhadib&show_icons=true&theme=dracula&hide_border=true&card_width=350&border_radius=5.6" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhadib&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=8&layout=compact&card_width=350" />
-    </a>
-  </p>
+#### Publications
 
+- **When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms**. *LREC 2026*. [paper](https://doi.org/10.63317/546w2cys6m6t) · [data](https://www.kaggle.com/datasets/sakhadib/bangla-bagdhara)
+  30 LLMs on 10,361 Bengali idioms: none exceeds 50% accuracy, against 83.4% for humans.
+- **LLM-Ideoplasticity: Measuring Ideological Plasticity in the Political Behavior of LLMs**. *AACL-IJCNLP 2026*. [arXiv](https://arxiv.org/abs/2606.28335) · [code](https://github.com/sakhadib/LLM-Ideoplasticity)
+- **AIDG: Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue**. *REALM @ EMNLP 2026*. [arXiv](https://arxiv.org/abs/2602.17443) · [code](https://github.com/sakhadib/AIDG)
+- **AREG: Adversarial Resource Extraction Game for Persuasion and Resistance in LLMs**. *MusIML @ ICML 2026*. [OpenReview](https://openreview.net/forum?id=1bnYMgH5gi) · [code](https://github.com/sakhadib/AREG)
+- **Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**. *MRL @ EMNLP 2026*. [arXiv](https://arxiv.org/abs/2609.29445)
 
-<h3>Wakatime Statistics</h3>
-  <p>
-    <a >
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sakhadib&layout=compact&theme=dracula&hide_border=true&border_radius=5.6&card_width=700" />
-    </a>
-  </p>
+Preprints on temporal reasoning, cross-lingual retrieval, LLM safety in Bangla, and Bangladeshi legal text: see [ORCID](https://orcid.org/0009-0005-3549-8616).
 
+#### Datasets
 
-<h3>Activity Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhadib&area=true&hide_border=true&theme=dracula&days=30&radius=5.6" />
+- **[Bangla Bagdhara](https://www.kaggle.com/datasets/sakhadib/bangla-bagdhara)**: 10,361 Bengali idioms under a 19-field annotation schema. The earlier public release has 5,200+ downloads.
+- **[Bangladesh Legal Acts Dataset](https://doi.org/10.34740/KAGGLE/DSV/12511542)**: 1,484 acts from 1799 to 2025, 35,633 sections, bilingual, annotated with the legal system in force at the time.
 
+#### Things I've built
 
-
-
-
-<h2 align="left">Find Me in</h2>
-<p align="left">
-<a href="https://kaggle.com/sakhadib"><img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/sakhadib"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-<a href="https://leetcode.com/sakhadib"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://linkedin.com/sakhadib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/adib.sakhawat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/adib_sakhawat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://youtube.com/@sakhadib"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,django,nodejs,express,vite,postman"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,sass,js,ts,figma,ai,xd"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Scripting</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php,go,ts,js,latex,r"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs':</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,rider,visualstudio,phpstorm,sublime,atom,clion"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,wordpress"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
-    </tr>
-</table>
-
-
-
+- **[Reko](https://github.com/sakhadib/Reko)**: Rust CLI that extracts every function from a repository in 15 languages into a fixed IR, with byte-exact reconstruction and built-in semantic search.
+- **[ISHKAPON AI](https://github.com/sakhadib/ishkaponai)**: local-first desktop tutor where every number is computed in a sandboxed Python runtime, so the model explains results it didn't make up.
+- **[Geon](https://github.com/sakhadib/Geon)**: single-file DSL that renders mathematical figures to SVG.
+- **[WhatTheHell](https://github.com/sakhadib/WhatTheHell)**: C++ CLI that turns your last failed command's error into one actionable sentence.
