@@ -6,6 +6,7 @@ I'm also an engineer at heart: when I want to understand something, I build my o
 
 BSc Software Engineering, Islamic University of Technology (IUT), Bangladesh, 2026, First Class with Honours · Affiliate Researcher, [Systems and Software Lab](https://cse.iutoic-dhaka.edu/ssl).
 
+[![Website](https://img.shields.io/badge/Website-sakhadib.github.io-9A3412?style=flat-square&logo=googlechrome&logoColor=white)](https://sakhadib.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Adib_Sakhawat-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=usvtpskAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3549--8616-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3549-8616)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sakhawatadib.com-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio.sakhawatadib.com)
