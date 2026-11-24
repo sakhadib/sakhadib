@@ -1,6 +1,6 @@
 ### Hi, I'm Adib 👋
 
-I work on **NLP, LLM evaluation, and AI safety**, mostly in the places mainstream benchmarks skip: low-resource languages like Bangla, figurative and legal text, and the gap between what a model *understands* and what it *contains*. I build datasets and evaluation protocols meant to falsify claims about model capability, not confirm them. **My work on Political Plasticity in LLM's Behavior received [![Best Paper Award at AACL 2026](https://img.shields.io/badge/AACL%202026-Best%20Paper%20Award-7bd4cb?style=flat-square&logo=hackthebox&logoColor=white)](https://sakhadib.github.io) in AACL-IJCNLP 2026 in hengqin, china.
+I work on **NLP, LLM evaluation, and AI safety**, mostly in the places mainstream benchmarks skip: low-resource languages like Bangla, figurative and legal text, and the gap between what a model *understands* and what it *contains*. I build datasets and evaluation protocols meant to falsify claims about model capability, not confirm them. **My work on Political Plasticity in LLM's Behavior received [![Best Paper Award at AACL 2026](https://img.shields.io/badge/AACL%202026-Best%20Paper%20Award-7bd4cb?style=flat-square&logo=hackthebox&logoColor=white)](https://sakhadib.github.io) in AACL-IJCNLP 2026 in hengqin, china.**
 
 I'm also an engineer at heart: when I want to understand something, I build my own version of it, from a version control system to a code extractor in Rust. I'm the founder of [Ediphas Labs](https://ediphas.com) which aims to produce custom software at low cost.
 
